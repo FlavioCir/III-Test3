@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to right, #00AAFF, #00FF6C);
+    text-align: center;
+    font-family: Gotham Rounded, sans-serif;
+    font-weight: normal;
+    line-height: 50px;
+    padding: 40px;
+}
+
+h1 {
+    color:white;
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+}
+
+p:hover {
+    color: white;
+    font-weight: bold;
+}
+
+fieldset {
+    border: 2px solid white;
+    display: inline-block;
+    text-align: right;
+    line-height: 30px;
+}
+
+
+
